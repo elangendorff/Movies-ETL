@@ -1,6 +1,9 @@
 # Adding config.py file
 config.py
 
+# Ratings file is just too big
+Resources/ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
